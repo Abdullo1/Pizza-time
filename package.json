@@ -1,0 +1,22 @@
+{
+    "name": "Pizza_Time",
+    "version": "1.0.0",
+    "description": "for order pizza",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Khamidov Abdullo",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "@slack/client": "^5.0.2",
+        "@slack/events-api": "^2.3.0",
+        "@slack/web-api": "^5.1.0",
+        "axios": "^0.19.0",
+        "events-api": "^0.2.0",
+        "mongod": "^2.0.0",
+        "mongodb": "^3.3.2",
+        "slack": "^11.0.2",
+        "slackbots": "^1.2.0"
+    }
+}
