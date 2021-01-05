@@ -12,7 +12,7 @@
         "@slack/client": "^5.0.2",
         "@slack/events-api": "^2.3.0",
         "@slack/web-api": "^5.1.0",
-        "axios": "^0.19.0",
+        "axios": "^0.21.1",
         "events-api": "^0.2.0",
         "mongod": "^2.0.0",
         "mongodb": "^3.3.2",
